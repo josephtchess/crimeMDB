@@ -1,0 +1,4 @@
+/CrimeMDB Client/*.db
+/CrimeMDB Client/.idea
+.idea
+.DS_STORE
